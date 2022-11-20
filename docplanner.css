@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #fff;
+    height: 100vh;
+    width: 100%;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+nav .logo{
+    color: rgb(78, 212, 112);
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 0 7px;
+} 
+
+nav ul li a{
+    color: rgb(129, 124, 124);
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+nav ul li a:hover{
+    color: rgb(78, 212, 112);
+}
+
+ #img1 nav{
+    justify-content: center;
+}
+
+#h21 nav{
+    color: rgb(78, 212, 112);
+}
+
+ .text1 nav  table{
+    justify-content: space-around;
+}
+
+.table3 nav table{
+    justify-content: flex-start;
+}
+
+{ 
+    
+}
+   
+
+    
